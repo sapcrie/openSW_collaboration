@@ -1,4 +1,3 @@
-package marblegame;
 
 public class MarbleGame {
     public static void main(String[] args) {

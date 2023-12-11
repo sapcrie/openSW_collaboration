@@ -1,4 +1,3 @@
-package marblegame;
 
 public class GameController {
     private Player player;
