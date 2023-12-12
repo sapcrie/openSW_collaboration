@@ -1,4 +1,3 @@
-package marblegame;
 
 public class Player {
     private int beads = 10;
